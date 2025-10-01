@@ -34,16 +34,19 @@ nav {
 
     border-radius: 10px;
 
-}
-.navLink:hover{
+}   .navLink:hover{
 
     background-color: rgba(201, 201, 201, 0.1);
+
 }
 
 
 h1 {
 
     margin-top: 20px;
+    background: linear-gradient(to right, #1824CF 20%, #9B44E7 65%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 
 img {
