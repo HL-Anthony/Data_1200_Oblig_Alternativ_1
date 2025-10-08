@@ -47,6 +47,11 @@ section {
 
 }
 
+footer{
+    width: 100%;
+    place-items: center;
+}
+
 h1 {
 
     margin-top: 20px;
@@ -65,4 +70,9 @@ img {
     height: 100%;
 
     border-radius: 20px;
+}
+.gitPicture {
+
+    margin-top: 100px;
+    width: 75%;
 }
