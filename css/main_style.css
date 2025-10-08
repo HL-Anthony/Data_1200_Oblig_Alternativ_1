@@ -7,7 +7,7 @@ html{
 body {
 
     /* defining font */
-    background-color: grey;
+    background-color: #dadada;
     font-family: Raleway , sans-serif;
 }
 
@@ -37,10 +37,15 @@ nav {
 
 }   .navLink:hover{
 
-    background-color: rgba(201, 201, 201, 0.1);
+    background-color: rgba(255, 255, 255, 0.3);
 
 }
+section {
 
+    justify-content: center;
+    margin-top: 50px;
+
+}
 
 h1 {
 

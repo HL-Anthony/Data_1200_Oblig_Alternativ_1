@@ -9,13 +9,13 @@
 
 
 
-/* --------------- Main content placement in grid  ------------------------- */
+/* --------------- Main content placement in grid and grid creation  ------------------------- */
 
 
 
 body {
 
-    /* centering the grid on the page */
+    /* centering elements on the page */
     place-items: center;
 }
 
